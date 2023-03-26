@@ -1,6 +1,6 @@
 ## 説明
 これは以下のQiita記事のソースコードです。
-[]()
+[SlackのSlashコマンドでSpreadsheetのGASを実行する方法](https://qiita.com/rubita/items/c58ba926d669ff51c88c)
 
 
 ## 操作方法
