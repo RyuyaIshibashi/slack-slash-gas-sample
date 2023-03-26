@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  gas:
+    image: gas
+    build:
+      context: ./docker
+    volumes:
+      - .:/app
