@@ -12,8 +12,6 @@ docker compose run gas bash
 
 bash上の操作
 ```bash
-npm install
-
 # ログイン
 bash ./docker/login.sh
 
